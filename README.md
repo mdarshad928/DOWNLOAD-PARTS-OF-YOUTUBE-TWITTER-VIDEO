@@ -2,7 +2,7 @@
 Download parts of youtube video using youtube-dl, ffmpeg and python
 
 ## Instruction to Use
-1. Open 'RunProgram.bat' to run the python Script in command prompt.
+1. Open `RunProgram.bat` to run the python Script in command prompt.
 
 3. Enter the youtube URL on prompt.
 4. > i.e. https://youtu.be/OIlSXRC-B-I 

@@ -1,4 +1,4 @@
-# PARTS-OF-YOUTUBE-VIDEO
+# PARTS-OF-ONLINE-VIDEO
 Download parts of youtube video using youtube-dl, ffmpeg and python
 
 ## Instruction to Use
